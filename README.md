@@ -7,5 +7,5 @@ This repository contains the power subsystem design files for the Micro-Mouse pr
 This repository was created to:
 
 - Upload and version-control the **KiCad schematic and PCB layout files**
-- Allow both contributors to **collaborate remotely and take turns editing** the project
+- To allow both of us to **collaborate remotely and take turns editing** the project
 - Keep a record of design iterations and updates throughout development
